@@ -47,4 +47,23 @@ Lista de Tarefas
 ---|---|---
 item1 | item2 | item3
 
+***
+## Enfase
+`Exemplo de enfase`
 
+***
+## Trecho de Códigos
+
+```
+if($number == $bd_id){
+    $codealert['msg'] = echo 'Informação encontrada com Sucesso'
+}else{
+    $codealert['msg'] = echo 'Informação não Encontrada'
+}
+```
+
+***
+## Emojis
+[Lista de Emojis](https://gist.github.com/rxaviers/7360908)
+
+[Outros Emojis](https://emojipedia.org/)
