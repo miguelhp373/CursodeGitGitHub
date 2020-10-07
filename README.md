@@ -29,7 +29,7 @@ __negrito__
 
 ***
 Lista de Tarefas
-- [ ]item
+- [ ] item
 
 ***
 ## Imagem
